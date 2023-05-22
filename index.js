@@ -5,7 +5,7 @@ import {
   DefaultPeerConnectionConfig as config,
 } from 'https://lsong.org/scripts/webrtc.js';
 import { ready } from 'https://lsong.org/scripts/dom.js';
-import { format } from 'https://lsong.org/scripts/date.js';
+import { format } from 'https://lsong.org/scripts/time.js';
 import { getUserMedia } from 'https://lsong.org/scripts/media.js';
 
 var localVideo, remoteVideo;
